@@ -62,11 +62,9 @@ A modern, vector-based semantic search engine built with Streamlit, Neo4j AuraDB
       NEO4J_URI=neo4j+s://<your-neo4j-uri>
       NEO4J_USER=neo4j
       NEO4J_PASSWORD=<your-password>
-      GROQ_API_KEY=<your-groq-api-key>
       EMBEDDING_MODEL=all-MiniLM-L6-v2
       VECTOR_DIMENSION=384
-      MONGODB_URI=mongodb+srv://<user>:<password>@<cluster>.mongodb.net/
-      MONGODB_DATABASE=semanticsearch
+    
       ```
 
 4. **Run the app:**
@@ -95,7 +93,6 @@ All sensitive credentials and settings are managed via the `.env` file. Never co
 
 - [Live Demo](https://semantic-search-test.streamlit.app/) <!-- Replace with your deployed app link -->
 - [Research](https://docs.google.com/document/d/1PtnLlTghRO3ObEiRz1lWOr1ZGiHvP4qUrssbldF9dHs/edit?pli=1&tab=t.0#heading=h.ycwl6rfjhudb) <!-- Add documentation link if available -->
-- [Issue Tracker](#) <!-- Add your issue tracker link -->
 
 ---
 
