@@ -27,7 +27,7 @@ A modern, vector-based semantic search engine built with Streamlit, Neo4j AuraDB
 
 ## Screenshots & Images
 
-> Place your screenshots or diagrams in the `images/` folder.
+
 
 ![Semantic Search UI](image.png)
 
