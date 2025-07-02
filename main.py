@@ -414,7 +414,7 @@ class PureSemanticSearch:
 def main():
     """Main Streamlit application for pure semantic search."""
     st.set_page_config(
-        page_title="Pure Semantic Search Engine",
+        page_title="Semantic Search Engine",
         page_icon="🔍",
         layout="wide"
     )
