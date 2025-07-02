@@ -1,0 +1,13 @@
+# .gitignore
+filepath: c:\Users\Akogo\Desktop\semantic_search\.gitignore
+# Compiled files
+*.pyc
+*.class
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database files
