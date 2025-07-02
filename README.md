@@ -29,7 +29,7 @@ A modern, vector-based semantic search engine built with Streamlit, Neo4j AuraDB
 
 > Place your screenshots or diagrams in the `images/` folder.
 
-![Semantic Search UI](image.npg)
+![Semantic Search UI](image.png)
 
 ---
 
@@ -93,8 +93,8 @@ All sensitive credentials and settings are managed via the `.env` file. Never co
 
 ## Links
 
-- [Live Demo](#) <!-- Replace with your deployed app link -->
-- [Documentation](#) <!-- Add documentation link if available -->
+- [Live Demo](https://semantic-search-test.streamlit.app/) <!-- Replace with your deployed app link -->
+- [Research](https://docs.google.com/document/d/1PtnLlTghRO3ObEiRz1lWOr1ZGiHvP4qUrssbldF9dHs/edit?pli=1&tab=t.0#heading=h.ycwl6rfjhudb) <!-- Add documentation link if available -->
 - [Issue Tracker](#) <!-- Add your issue tracker link -->
 
 ---
