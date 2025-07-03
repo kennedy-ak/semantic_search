@@ -34,8 +34,7 @@ class PureSemanticSearchMongo:
             self.logger.info("Embedding model loaded successfully")
             
             # Initialize MongoDB connection with your specific URL
-            mongodb_uri = os.getenv('MONGODB_URI', 'mongodb+srv://akogokennedy:7JpYWCsGK7whPy5m@cluster0.mvm1jsz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
-            
+            mongodb_uri = os.getenv('MONGODB_URI', '')            
             if not mongodb_uri:
                 raise ValueError("MONGODB_URI environment variable not set")
             
