@@ -419,7 +419,7 @@ def main():
         layout="wide"
     )
     
-    st.title("🔍 Pure Semantic Search Engine")
+    st.title("🔍 Pure Semantic Search Engine with Neo4j")
     st.markdown("*Vector-based semantic similarity search with optional keyword matching*")
     
     # Initialize the search system
