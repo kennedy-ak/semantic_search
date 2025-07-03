@@ -4,4 +4,4 @@ sentence-transformers
 python-dotenv 
 PyPDF2 
 numpy
-pymongo s
+pymongo 
